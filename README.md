@@ -29,8 +29,7 @@
 **team_recommend-api/**<br>
 ├── api/<br>
 │ └── baseballAI.js # 백엔드 API (Vercel용)<br>
-├── .env # 환경변수 파일 (API 키 등)**team_recommend-api/<br>
-├── .env<br>
+├── .env # 환경변수 파일 (API 키 등)<br>
 ├── package.json<br>
 ├── package-lock.json<br>
 └── README.md<br>
